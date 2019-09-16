@@ -1,0 +1,52 @@
+body {
+    background: #000000;
+    font-family: Tahoma;
+    text-decoration-color: white;
+    color: white;
+}
+h1 {
+    text-align:center;
+  }
+
+.first{
+  border: solid 7px red;
+  text-align: center;
+  width: 30%;
+  height:30%;
+}
+
+.p1{
+  color:white;
+  font-size:25px;
+  text-align:center;
+}
+
+.p2{
+  color:white;
+  font-size:30px;
+  text-align:center;
+  border: 3px;
+  border-style:solid;
+  border-color:#FF0000
+}
+
+.h3{
+  text-align:center;
+  font-size:40px;
+}
+
+.second{
+  border: solid 7px white;
+  width:45%;
+  height:45%;
+}
+
+.third{
+  border:solid 7px white;
+  width:45%;
+  height:45%;
+}
+
+.p3{
+  text-align:center;
+}
